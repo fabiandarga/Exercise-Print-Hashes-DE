@@ -15,7 +15,7 @@ Aufgabe 1.
 
 ## Aufgabe 2
 
-Schreibe eine for Schleife, die *n* mal die function *printLine* aufruft und folgendes Ergebnis Liefert.
+Schreibe eine for Schleife, die 10 mal die Funktion *printLine* aufruft und folgendes Ergebnis Liefert.
 
 **Ergebnis:**
 ```
@@ -48,7 +48,7 @@ Aufgabe 3.
 ```
 
 ## Aufgabe 4
-Schreibe eine for Schleife, die *n* mal die function *printLineCentered* aufruft und folgendes Ergebnis Liefert.
+Schreibe eine for Schleife, die 10 mal die Funktion *printLineCentered* aufruft und folgendes Ergebnis Liefert.
 
 
 **Ergebnis:**
@@ -64,4 +64,23 @@ Aufgabe 4.
 +++##############+++
 ++################++
 +##################+
+```
+
+## Bonus Aufgabe
+Schreibe eine for Schleife, die **12** mal die Funktion *printLineCentered* aufruft und folgendes Ergebnis Liefert.
+
+**Ergebnis:**
+```
+++++++++++++++++++++
++++++++++##+++++++++
+++++++++####++++++++
++++++++######+++++++
+++++++########++++++
++++++##########+++++
+++++############++++
++++##############+++
+++################++
++##################+
+++++++++####++++++++
+++++++++####++++++++
 ```
